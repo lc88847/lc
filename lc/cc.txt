@@ -1,1 +1,6 @@
 11111111111222222222222333333333
+<<<<<<< HEAD
+Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
