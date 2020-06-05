@@ -1,6 +1,1 @@
-11111111111222222222222333333333
-<<<<<<< HEAD
-Creating a new branch is quick & simple.
-=======
-Creating a new branch is quick AND simple.
->>>>>>> dev
+1111111111122222222222233333333344444444444444
